@@ -1,0 +1,29 @@
+body{
+    background-color:antiquewhite ;
+}
+button{
+    background-color:coral ;
+    width: 7%;
+height: 5%;
+    
+}
+.heading{
+    background-color: white;
+    
+}
+
+.heading h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(247, 241, 241);
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
